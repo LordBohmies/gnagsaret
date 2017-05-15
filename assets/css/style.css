@@ -1,0 +1,63 @@
+/* ==================================== */
+/* ===== GNAGSÅRET CSS, version 1 ===== */
+/* ===== LATEST UPDATE 2016-05-13 ===== */
+/* ==================================== */
+
+/* ====== COLOR DEFINETION ============ */
+/*
+	= Body
+		- background-color: #fff;
+		- color: #000;
+	= Header -
+	= Navigation
+		- background-color: #683A1E / rgba(104, 58, 30, 1);
+		- color: #e1e1e1 / rgba(225, 225, 225, 1);
+		- border: #333333 / rgba(51, 51, 51, 1);
+		= Hover
+			- background-color: #333333 / rgba(51, 51, 51, 0.75);
+			- color: #fff / rgba(250, 250, 250, 1);
+			- Brand - color: #c8c8c8 / rgba(200, 200, 200, 1);
+		= Toggle
+			- border: #e1e1e1 / rgba(225, 225, 225, 1);
+			= Hover
+				- background-color: #333333 / rgba(51, 51, 51, 0.75);
+
+	= Blue Container
+		- background-color: #D3E4DA / rgba(211, 228, 218, 1);
+		- color: #333333 / rgba(51, 51, 51, 1);
+		- border: #333333 / rgba(51, 51, 51, 1);
+
+	= Green Container
+		- background-color: #ECF5DE / rgba(236, 245, 222, 1);
+		- color: #333333 / rgba(51, 51, 51, 1);
+		- border: #333333 / rgba(51, 51, 51, 1);
+
+	= Footer
+		- background-color: #683A1E / rgba(104, 58, 30, 1);
+		- color: #333333 / rgba(51, 51, 51, 1);;
+		= Smallprint
+			- color: #999;
+
+	=
+	=
+	=
+	=
+	=
+	=
+*/
+/* ====== IMPORT FONTS ================ */
+
+/* ====== LANGUAGE ICON =============== */
+.icon-small
+{
+    height:18px;
+    margin:0;
+	padding:0;
+}
+
+.icon-medium
+{
+    height:22px;
+	margin:0;
+	padding:0;
+}
